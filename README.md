@@ -58,7 +58,7 @@ Packages listed in `requirements.txt`
 
 ├── data/                      # Dataset files (excluded from Git tracking)
 
-/├── notebooks/                 # Jupyter notebooks for EDA and experiments
+├── notebooks/                 # Jupyter notebooks for EDA and experiments
 
 ├── models/                    # Saved model files and outputs
 

@@ -54,6 +54,9 @@ X_train_res, y_train_res = smote.fit_resample(X_train, y_train)
 print("\nResampled training set class distribution:")
 print(y_train_res.value_counts())
 
+# Check dtypes in resampled training set (should all be numeric)
+print(X_train_res.dtypes)
+
 # -----------------------------
 # (Optional) Save results for model training
 # -----------------------------
@@ -61,5 +64,6 @@ pd.DataFrame(X_train_res, columns=X.columns).to_csv("data/X_train_smote.csv", in
 y_train_res.to_csv("data/y_train_smote.csv", index=False)
 X_test.to_csv("data/X_test.csv", index=False)
 y_test.to_csv("data/y_test.csv", index=False)
+
 
 print("\nTrain-test split with SMOTE complete. Files saved in 'data/' folder.")

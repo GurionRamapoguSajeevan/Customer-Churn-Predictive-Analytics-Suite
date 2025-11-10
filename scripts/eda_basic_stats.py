@@ -48,4 +48,7 @@ print(df.describe(include='object'))  # for categorical variables
 print("\n--- Missing Values Per Column ---")
 print(df.isnull().sum())
 
+print("\nData Types of Columns:")
+print(df.dtypes)
+
 print("\nEDA script finished successfully.")

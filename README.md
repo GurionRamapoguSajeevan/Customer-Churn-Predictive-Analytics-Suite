@@ -16,7 +16,7 @@ The Customer Churn Analytics Suite is a comprehensive toolkit designed to analyz
 * Clear, actionable business insights to help reduce customer churn
 
 # Tech Stack
-Python: `(Pandas, NumPy, Scikit-learn, XGBoost)`
+Python: `(Pandas, NumPy, Scikit-learn, SHAP explainer, Logistic Regression, Random Forest, XGBoost, Ensembling)`
 
 Visualization: `Matplotlib, Seaborn, Plotly`
 

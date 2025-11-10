@@ -90,12 +90,3 @@ plt.ylabel('Proportion')
 plt.xlabel('Payment Method')
 plt.legend(title='Churn')
 plt.show()
-
-# -----------------------------
-# Summary: Missing Values and Data Types
-# -----------------------------
-print("\nMissing Values in Dataset:")
-print(df.isnull().sum())
-
-print("\nData Types of Columns:")
-print(df.dtypes)

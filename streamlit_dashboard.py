@@ -38,8 +38,8 @@ best_xgb = data['best_xgb']
 scaler = data['scaler']
 
 # Streamlit page configuration
-st.set_page_config(page_title="Telco Customer Churn Prediction Dashboard", layout="wide")
-st.title("Telco Customer Churn Prediction Dashboard")
+st.set_page_config(page_title="Telco Customer Churn Prediction Dashboard - by Gurion", layout="wide")
+st.title("Telco Customer Churn Prediction Dashboard - by Gurion")
 
 st.markdown("""
 ### Project Overview
@@ -278,3 +278,4 @@ with st.form("customer_form"):
             st.warning("This customer is likely to churn.")
         else:
             st.success("This customer is unlikely to churn.")
+

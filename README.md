@@ -83,7 +83,7 @@ Explainability ensures the model is transparent, audit-friendly, and deployable 
 
 # 📈 Dashboards
 
-1. Streamlit Dashboard
+1. Streamlit Dashboard : View the dedicated APP through the _Github repo_ here : [_Streamlit_app_Customer_churn_prediction_](https://github.com/GurionRamapoguSajeevan/Streamlit_app_Customer_churn_prediction)
 * User-friendly interface
 * Customer-level predictions
 * SHAP explanations displayed interactively

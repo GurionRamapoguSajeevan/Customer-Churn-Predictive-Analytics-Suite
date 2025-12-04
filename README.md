@@ -1,7 +1,9 @@
 # ⭐ Customer-Churn-Predictive-Analytics-Suite
 Unlock actionable insights and prediction power with end-to-end churn analytics, combining advanced EDA, explainability, dashboards, and state-of-the-art machine learning.
 
-[![Streamlit App](https://static.streamlit.io/badges/streamlit_badge_black_white.svg)](https://github.com/GurionRamapoguSajeevan/Streamlit_app_Customer_churn_prediction)
+[My repo for Streamlit App](https://github.com/GurionRamapoguSajeevan/Streamlit_app_Customer_churn_prediction)
+
+[![Streamlit App](https://static.streamlit.io/badges/streamlit_badge_black_white.svg)](https://churnprediction-app-grs-wqyhm9zikea2uleappszlmc.streamlit.app/)
 
 # Project Overview
 The Customer Churn Predictive Analytics Suite is a full-stack analytics and machine learning project designed to analyze customer behavior, uncover churn drivers, and build predictive models that help telecom companies reduce churn.
@@ -83,9 +85,7 @@ Using SHAP analysis from both Random Forest and XGBoost models, the _**Top Predi
 
 Explainability ensures the model is transparent, audit-friendly, and deployable in real-world business settings.
 
-# 📈 Dashboards
-
-[![Streamlit App](https://static.streamlit.io/badges/streamlit_badge_black_white.svg)](https://github.com/GurionRamapoguSajeevan/Streamlit_app_Customer_churn_prediction)
+# 📈 [Dashboards](https://github.com/GurionRamapoguSajeevan/Streamlit_app_Customer_churn_prediction)
 
 * User-friendly interface
 * Customer-level predictions
